@@ -50,6 +50,9 @@ Use the diagnostic-session-supervisor skill.
 The client asked for the price, reacted with a handshake emoji, and stopped replying. Based on the transcript and this message history, help me infer what the reaction may mean and draft a clarification message.
 ```
 
-## Publishing Note
+## Learn the Method
 
-Before publishing in a public repository, choose and add a license. No private client names, transcripts, local paths, or proprietary reports are included in this package.
+This skill can highlight problems in a diagnostic session and suggest stronger moves. To learn how to run diagnostic sessions, sell tracking, and work with constraints systematically, see:
+
+- Russian: [Школа трекеров](https://shkolatrekerov.ru)
+- English: [Growth Tracking School](https://growthtracking.net)
