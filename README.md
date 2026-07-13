@@ -56,3 +56,7 @@ This skill can highlight problems in a diagnostic session and suggest stronger m
 
 - Russian: [Школа трекеров](https://shkolatrekerov.ru)
 - English: [Growth Tracking School](https://growthtracking.net)
+
+## License
+
+Creative Commons Attribution-NonCommercial 4.0 International (`CC BY-NC 4.0`). See [LICENSE](LICENSE).
