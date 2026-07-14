@@ -28,6 +28,16 @@ Use the diagnostic canvas as a map of attention, not as a mechanical checklist. 
 
 Do not rely on keyword spotting. Analyze the conversational arc: how the request forms, where insight appears, where the offer enters, how the client reacts, and where doubt or commitment appears.
 
+## Evidence Rules
+
+Work from the full transcript, not from summaries. If a file includes an overview, summary, action items, tags, AI notes, or other extracted metadata, use them only for orientation and navigation. Do not use them as the basis for conclusions unless the raw transcript confirms the same point.
+
+Base your analysis on the actual words and sequence of the conversation: what each person said, when they said it, how the topic shifted, what was accepted, what was resisted, and what happened around the offer and next step.
+
+Do not treat aggregated patterns, previous analyses, call summaries, CRM fields, transcript classifications, or extracted reports as evidence about the specific session. They may be useful context if the user provides them, but conclusions about the session must come from the transcript text itself. If you use external context, label it explicitly as external context.
+
+If the user provides only a summary and no full transcript, say that the review is limited to summary-level evidence. Do not present deep supervision, hidden doubt analysis, or precise failure mechanisms as definitive without transcript-level evidence.
+
 ## Inputs To Look For
 
 The user may provide:
